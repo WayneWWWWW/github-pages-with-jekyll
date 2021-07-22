@@ -1,15 +1,12 @@
 theme: minima
-title: Welcome to Wayne's Page
+title: Wayne's Page
 author: Wayne
 email: 1194884805@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is belong to Wayne, some life scenes will be shared!!!
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Gain growth step by step. Go forward together!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  WayneWWWWW # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
